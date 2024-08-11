@@ -1,7 +1,7 @@
 import React, { useContext, useState } from "react";
 import { useNavigate } from 'react-router-dom';
 import "../styles/PleaseConnect.css";
-import { ReactComponent as Tellor } from "../assets/Tellor_TRB.svg";
+import { ReactComponent as Tellor } from "../assets/signum_logo.svg";
 import WalletConnectProvider from "@walletconnect/web3-provider";
 import {web3Context} from '../App';
 import Web3Modal from "web3modal";
