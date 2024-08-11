@@ -169,4 +169,4 @@ Signum.win
 [issues-url]: https://github.com/AvantgardeBlockchainSolutions/signum-votingModule/issues
 [license-shield]: https://img.shields.io/github/license/AvantgardeBlockchainSolutions/signum-votingModule.svg?style=for-the-badge
 [license-url]: https://github.com/AvantgardeBlockchainSolutions/signum-votingModule/blob/main/LICENSE.txt
-[screenshot]: https://user-images.githubusercontent.com/21370350/165222959-8581c860-1bf0-425e-aa05-500c530a2567.png
+[screenshot]: https://user-images.githubusercontent.com/21370350/165222959-8581c860-1bf0-425e-aa05-500c530a2567.pngg
