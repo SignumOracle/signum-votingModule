@@ -1,0 +1,85 @@
+.PleaseConnect__page{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  background: #343232;
+  color:white;
+  font-family: "Inconsolata";
+}
+.PleaseConnect__Container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding: 5% 5% 10% 5%;
+  font-family: "Inconsolata";
+}
+.PleaseConnect__Container h1 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 1.5rem;
+  font-family: "Inconsolata";
+}
+.PleaseConnect__Swoosh {
+  width: 50px;
+  height: 50px;
+  margin: 2%;
+  font-family: "Inconsolata";
+}
+.PleaseConnect__Connect {
+  margin: 0%;
+  font-family: "Inconsolata"; 
+}
+.PleaseConnect__Connect button {
+  font-size: 1rem !important;
+  line-height: 1.5rem !important;
+  background: linear-gradient(90deg, #fbc51b 0%, #f2d883 100%);
+  color: #555555;
+  box-sizing: border-box;
+  padding: 14px 40px 18px 40px;
+  height: 50px;
+  width: 100%;
+  border: none;
+  border-radius: 25px;
+  font-weight: 500;
+  font-family: "Inconsolata", monospace;
+}
+.PleaseConnect__Connect button:hover {
+  cursor: pointer;
+}
+.PleaseConnect__MetaMask p {
+  font-size: 1em;
+}
+.PleaseConnect__MetaMaskLink {
+  padding: 1% 1%;
+  color: white;
+}
+
+.PleaseConnect__choose_wallet{
+  /* border: 1px solid #383838; */
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 3% 0 10% 0;
+}
+
+.PleaseConnect__seperator{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.PleaseConnect__line{
+  height: 1px;
+  width: 200px;
+  margin: 0 5%;
+  background-color: rgb(170, 170, 170);
+}
+
+.PleaseConnect__seperator_text{
+
+}
+
