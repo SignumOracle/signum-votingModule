@@ -67,12 +67,6 @@
 
 ## About The Project
 
-<div>
-  <img src="https://user-images.githubusercontent.com/21370350/165320540-80943ab0-be96-4ce1-bfe1-5dfd779cabea.png" alt="Project example" width="30%" height="100%">
-  <img src="https://user-images.githubusercontent.com/21370350/165320605-f9c82470-35fb-47fc-89a2-c361c9d5cc26.png" alt="Project example" width="30%" height="100%">
-  <img src="https://user-images.githubusercontent.com/21370350/165320664-340a3e99-bc46-4105-8827-8c24d916dd17.png" alt="Project example" width="30%" height="100%">
-</div>
-
 ### Built With
 
 - [React](https://reactjs.org/)
@@ -175,4 +169,4 @@ Signum.win
 [issues-url]: https://github.com/AvantgardeBlockchainSolutions/signum-votingModule/issues
 [license-shield]: https://img.shields.io/github/license/AvantgardeBlockchainSolutions/signum-votingModule.svg?style=for-the-badge
 [license-url]: https://github.com/AvantgardeBlockchainSolutions/signum-votingModule/blob/main/LICENSE.txt
-[screenshot]: https://user-images.githubusercontent.com/21370350/165222959-8581c860-1bf0-425e-aa05-500c530a2567.pngg
+[screenshot]: https://user-images.githubusercontent.com/21370350/165222959-8581c860-1bf0-425e-aa05-500c530a2567.png
