@@ -1,7 +1,7 @@
 import React, { useContext, useState } from "react";
 import { useNavigate } from 'react-router-dom';
 import "../styles/PleaseConnect.css";
-import { ReactComponent as Tellor } from "../assets/signum_logo.svg";
+import signumLogo from '../assets/signum_logo.png';
 import WalletConnectProvider from "@walletconnect/web3-provider";
 import {web3Context} from '../App';
 import Web3Modal from "web3modal";
@@ -88,7 +88,7 @@ function PleaseConnect() {
         {content}
       </Message>
         {/* Logo */}
-        <Tellor className="PleaseConnect__Swoosh" />
+        <img className="PleaseConnect__Swoosh" style={{width: "100px"}} src={signumLogo} alt="Signum Logo" />
 
         {/* Bold text */}
         <h1>Please connect your wallet to this page to vote.</h1>

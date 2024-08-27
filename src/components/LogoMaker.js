@@ -1,6 +1,6 @@
 import React from 'react';
 import '../styles/LogoMaker.css';
-import { ReactComponent as TellorWhite } from '../assets/signum_logo.svg';
+import signumLogo from '../assets/signum_logo.png';
 
 function LogoMaker(){
     return(
@@ -8,7 +8,7 @@ function LogoMaker(){
             <a href="https://signum.win/" className="LogoMaker__link">
                 <div className='LogoMaker__container'>
                     <div>
-                        <TellorWhite style={{ width: '150px', height: '150px' }} className="LogoMaker__Title"/>
+                        <img className="TellorLogo" style={{width: "100px", height: "105px"}} src={signumLogo} alt="Signum Logo" />
                     </div>
                     <div className='LogoMaker__unstop'>
                     </div>
