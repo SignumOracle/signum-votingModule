@@ -29,7 +29,7 @@
   border: 2px solid #fbc51b;
   border-radius: 25px;
   font-weight: 700;
-  font-family: "Inconsolata", monospace;
+  font-family: "Poppins Light";
   display: flex;
   /* background-color: #; */
 }
@@ -44,7 +44,7 @@
   border: 2px solid #fbc51b;
   border-radius: 25px;
   font-weight: 700;
-  font-family: "Inconsolata", monospace;
+  font-family: "Poppins Light";
   margin-left: 20px;
   display: flex;
 }

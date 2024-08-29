@@ -8,7 +8,7 @@ function LogoMaker(){
             <a href="https://signum.win/" className="LogoMaker__link">
                 <div className='LogoMaker__container'>
                     <div>
-                        <img className="TellorLogo" style={{width: "100px", height: "105px"}} src={signumLogo} alt="Signum Logo" />
+                        <img className="TellorLogo" style={{width: "50px" }} src={signumLogo} alt="Signum Logo" />
                     </div>
                     <div className='LogoMaker__unstop'>
                     </div>

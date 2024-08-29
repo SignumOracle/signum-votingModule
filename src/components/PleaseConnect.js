@@ -88,7 +88,8 @@ function PleaseConnect() {
         {content}
       </Message>
         {/* Logo */}
-        <img className="PleaseConnect__Swoosh" style={{width: "100px"}} src={signumLogo} alt="Signum Logo" />
+        <img className="PleaseConnect__Swoosh" style={{width: "50px"}} src={signumLogo} alt="Signum Logo" />
+        <p style={{ color: "#fbc51b", textDecoration: "underline" }}>TEST NETWORK</p>
 
         {/* Bold text */}
         <h1>Please connect your wallet to this page to vote.</h1>

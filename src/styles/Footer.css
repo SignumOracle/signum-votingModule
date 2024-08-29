@@ -1,11 +1,19 @@
 /* Footer */
 
 @font-face {
-  font-family: "Renogare Regular";
+  font-family: 'Poppins';
   font-style: normal;
-  font-weight: normal;
-  src: local("Renogare Regular"),
-    url("../assets/Renogare-Regular.woff") format("woff");
+  font-weight: 600;
+  src: local('Poppins SemiBold'),
+    url('./assets/Poppins/Poppins-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Poppins Light';
+  font-style: normal;
+  font-weight: 200;
+  src: local('Poppins Light'),
+    url('./assets/Poppins/Poppins-Light.ttf') format('truetype');
 }
 
 .Footer {
@@ -37,7 +45,7 @@
   color: #fafafa;
 }
 .Footer__Logo {
-  font-family: "Renogare Regular";
+  font-family: "Poppins";
   font-weight: normal;
   font-size: 3.65rem;
   line-height: 3.5rem;

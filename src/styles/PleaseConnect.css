@@ -45,7 +45,7 @@
   border: none;
   border-radius: 25px;
   font-weight: 500;
-  font-family: "Inconsolata", monospace;
+  font-family: "Poppins Light";
 }
 .PleaseConnect__Connect button:hover {
   cursor: pointer;
