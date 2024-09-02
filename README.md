@@ -28,7 +28,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/AvantgardeBlockchainSolutions/signum-votingModule">
+  <a href="https://github.com/SignumOracle/signum-votingModule">
     <img src="/public/favicon.jpg" alt="Logo" width="80" height="80">
   </a>
 
@@ -38,9 +38,9 @@
     This project is a reusable voting interface for Signum upgrades, Signum treasuries and other community governance votes. Just update the description on what community members are voting on, as well as the votingID (coming from a Solidity contract) to be voted on, located at line 25 && 26 under src/components/Hero.js, depending on the chain where the vote is happening.
     <br />
     <br />
-    <a href="https://github.com/AvantgardeBlockchainSolutions/signum-votingModule/issues">Report Bug</a>
+    <a href="https://github.com/SignumOracle/signum-votingModule/issues">Report Bug</a>
     ·
-    <a href="https://github.com/AvantgardeBlockchainSolutions/signum-votingModule/issues">Request Feature</a>
+    <a href="https://github.com/SignumOracle/signum-votingModule/issues">Request Feature</a>
   </p>
 </p>
 
@@ -101,7 +101,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo in your preferred directory
    ```sh
-   git clone https://github.com/AvantgardeBlockchainSolutions/signum-votingModule.git
+   git clone https://github.com/SignumOracle/signum-votingModule.git
    ```
 2. Install NPM packages
    ```sh
@@ -124,7 +124,7 @@ To get a local copy up and running follow these simple steps.
 
 ## Roadmap
 
-See the [open issues](https://github.com/AvantgardeBlockchainSolutions/signum-votingModule/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/SignumOracle/signum-votingModule/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -159,14 +159,14 @@ Signum.win
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/AvantgardeBlockchainSolutions/signum-votingModule.svg?style=for-the-badge
-[contributors-url]: https://github.com/AvantgardeBlockchainSolutions/signum-votingModule/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/AvantgardeBlockchainSolutions/signum-votingModule.svg?style=for-the-badge
-[forks-url]: https://github.com/AvantgardeBlockchainSolutions/signum-votingModule/network/members
-[stars-shield]: https://img.shields.io/github/stars/AvantgardeBlockchainSolutions/signum-votingModule.svg?style=for-the-badge
-[stars-url]: https://github.com/AvantgardeBlockchainSolutions/signum-votingModule/stargazers
-[issues-shield]: https://img.shields.io/github/issues/AvantgardeBlockchainSolutions/signum-votingModule.svg?style=for-the-badge
-[issues-url]: https://github.com/AvantgardeBlockchainSolutions/signum-votingModule/issues
-[license-shield]: https://img.shields.io/github/license/AvantgardeBlockchainSolutions/signum-votingModule.svg?style=for-the-badge
-[license-url]: https://github.com/AvantgardeBlockchainSolutions/signum-votingModule/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/SignumOracle/signum-votingModule.svg?style=for-the-badge
+[contributors-url]: https://github.com/SignumOracle/signum-votingModule/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/SignumOracle/signum-votingModule.svg?style=for-the-badge
+[forks-url]: https://github.com/SignumOracle/signum-votingModule/network/members
+[stars-shield]: https://img.shields.io/github/stars/SignumOracle/signum-votingModule.svg?style=for-the-badge
+[stars-url]: https://github.com/SignumOracle/signum-votingModule/stargazers
+[issues-shield]: https://img.shields.io/github/issues/SignumOracle/signum-votingModule.svg?style=for-the-badge
+[issues-url]: https://github.com/SignumOracle/signum-votingModule/issues
+[license-shield]: https://img.shields.io/github/license/SignumOracle/signum-votingModule.svg?style=for-the-badge
+[license-url]: https://github.com/SignumOracle/signum-votingModule/blob/main/LICENSE
 [screenshot]: https://user-images.githubusercontent.com/21370350/165222959-8581c860-1bf0-425e-aa05-500c530a2567.png
